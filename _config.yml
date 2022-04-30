@@ -20,12 +20,12 @@ source-code: https://github.com/angelap13/family-photos
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Family Photos
+title: Marcellino Family Photos
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Significant photos related to my family's history
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection includes significant family photographs from my maternal grandmother's side of the family. It was created to preserve my family's history for the use of current and future generations."
+description: "This collection includes significant photographs from my maternal grandmother's side of the family. It was created to preserve my family's history for the use of current and future generations."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Angela Pesi
 
