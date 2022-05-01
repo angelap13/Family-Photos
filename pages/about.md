@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="familyphoto011" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the Creator;ABout CollectionBuilder" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Creator;About CollectionBuilder" %}
 
 ## About the Collection
 
