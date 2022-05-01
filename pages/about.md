@@ -8,11 +8,19 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="familyphoto017" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Creator" %}
 
 ## About the Collection
+
+This collection contains photographs of the Marcellino family of Baltimore, MD. It is particularly focused on photographys of significant events in the family's history, including but not limited to weddings, travel, and graduations. It is my hope that current and future generations of my family will add to this collection so that our story can continue to be told.
+
+## About the Creator
+
+{% include feature/image.html objectid="angela_creator_image" width="25" %}
+
+Angela is the granddaughter of Bernadette Semeniuk née Marcellino. A lifelong lover of books and stories, Angela built this collection as a way to gather the stories She is currently working toward her Masters in Library and Information Science from University of Maryland while also working in a public library. In her free time, Angela enjoys hiking, seeing Shakespeare plays, sewing stuffed animals, drawing, and reading everything she can get her hands on!
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -22,6 +30,3 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
